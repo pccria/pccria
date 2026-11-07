@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 195" width="260" height="195" role="img" aria-label="WRITING &amp; READING: Notes &amp; Curiosities" fill="none">
+  <!-- Accent bar -->
+  <line x1="2" y1="2" x2="2" y2="16" stroke="#f09843" stroke-opacity="0.95" stroke-width="1.8"/>
+  <text x="17" y="24" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.0" fill="#f09843">WRITING &amp; READING</text>
+  <text x="17" y="50" font-family="Georgia, 'Times New Roman', Times, serif" font-size="17" font-weight="700" fill="#f0f6fc">Notes &amp; Curiosities</text>
+  <text x="17" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Writing down what I learn along</text>
+  <text x="17" y="97" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">the way in technical teardowns and</text>
+  <text x="17" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">field notes, alongside classical</text>
+  <text x="17" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">philosophy, history, and mythology.</text>
+  <text x="17" y="165" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="500" fill="#9198a1">Essays · Architecture · Philosophy</text>
+  <line x1="2" y1="184" x2="256" y2="184" stroke="#8b949e" stroke-opacity="0.34" stroke-width="1"/>
+  <line x1="2" y1="180" x2="2" y2="188" stroke="#f09843" stroke-opacity="0.9" stroke-width="1.8"/>
+  <line x1="256" y1="180" x2="256" y2="188" stroke="#f09843" stroke-opacity="0.9" stroke-width="1.8"/>
+</svg>

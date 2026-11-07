@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 852 114" width="852" height="114" role="img" aria-label="Building Systems, Exploring Sound, Learning and Writing">
+  <text x="2" y="42" font-family="Georgia, 'Times New Roman', Times, serif" font-size="28.5" font-weight="400" fill="#f0f6fc">Building Systems, Exploring Sound,</text>
+  <text x="2" y="80" font-family="Georgia, 'Times New Roman', Times, serif" font-size="28.5" font-style="italic" fill="#d2dae2">Learning &amp; Writing.<tspan font-style="normal" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="22" fill="#f09843" dx="12">▍<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+
+  <line x1="528" y1="32" x2="846" y2="32" stroke="#8b949e" stroke-opacity="0.34" stroke-width="1"/>
+  <line x1="528" y1="42" x2="846" y2="42" stroke="#8b949e" stroke-opacity="0.34" stroke-width="1"/>
+  <line x1="528" y1="52" x2="846" y2="52" stroke="#8b949e" stroke-opacity="0.34" stroke-width="1"/>
+  <line x1="528" y1="62" x2="846" y2="62" stroke="#8b949e" stroke-opacity="0.34" stroke-width="1"/>
+  <line x1="528" y1="72" x2="846" y2="72" stroke="#8b949e" stroke-opacity="0.34" stroke-width="1"/>
+  <line x1="528" y1="32" x2="528" y2="72" stroke="#8b949e" stroke-opacity="0.55" stroke-width="1.6"/>
+  <line x1="846" y1="32" x2="846" y2="72" stroke="#8b949e" stroke-opacity="0.55" stroke-width="1.6"/>
+  <polyline points="528.0,52.0 531.2,51.9 534.4,51.6 537.5,51.2 540.7,50.6 543.9,50.0 547.1,49.3 550.3,48.8 553.4,48.3 556.6,48.0 559.8,47.7 563.0,47.6 566.2,47.6 569.3,47.7 572.5,47.8 575.7,47.8 578.9,47.7 582.1,47.6 585.2,47.4 588.4,47.2 591.6,47.0 594.8,46.9 598.0,46.9 601.1,47.2 604.3,47.8 607.5,48.8 610.7,50.2 613.9,52.0 617.0,54.1 620.2,56.4 623.4,58.9 626.6,61.4 629.8,63.7 632.9,65.7 636.1,67.2 639.3,68.3 642.5,68.8 645.7,68.6 648.8,67.9 652.0,66.7 655.2,65.1 658.4,63.3 661.6,61.3 664.7,59.4 667.9,57.5 671.1,56.0 674.3,54.7 677.5,53.7 680.6,53.0 683.8,52.4 687.0,52.0 690.2,51.6 693.4,51.0 696.5,50.3 699.7,49.3 702.9,48.0 706.1,46.5 709.3,44.6 712.4,42.7 715.6,40.7 718.8,38.9 722.0,37.3 725.2,36.1 728.3,35.4 731.5,35.2 734.7,35.7 737.9,36.8 741.1,38.3 744.2,40.3 747.4,42.6 750.6,45.1 753.8,47.6 757.0,49.9 760.1,52.0 763.3,53.8 766.5,55.2 769.7,56.2 772.9,56.8 776.0,57.1 779.2,57.1 782.4,57.0 785.6,56.8 788.8,56.6 791.9,56.4 795.1,56.3 798.3,56.2 801.5,56.2 804.7,56.3 807.8,56.4 811.0,56.4 814.2,56.3 817.4,56.0 820.6,55.7 823.7,55.2 826.9,54.7 830.1,54.0 833.3,53.4 836.5,52.8 839.6,52.4 842.8,52.1 846.0,52.0" fill="none" stroke="#f09843" stroke-opacity="0.95" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <line x1="2" y1="104" x2="850" y2="104" stroke="#8b949e" stroke-opacity="0.35" stroke-width="1"/>
+  <line x1="2" y1="98" x2="2" y2="110" stroke="#f09843" stroke-opacity="0.9" stroke-width="1.8"/>
+  <line x1="850" y1="98" x2="850" y2="110" stroke="#f09843" stroke-opacity="0.9" stroke-width="1.8"/>
+</svg>
